@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
     font-family: "Montserrat";
     src: url("../fontes/Montserrat-VariableFont_wght.ttf");
@@ -32,3 +33,7 @@ h1 {
     font-weight: var(--title-weight);
     color: var(--primary-color);
 }
+=======
+@import url(global.css);
+@import url(header.css);
+>>>>>>> feat/header
